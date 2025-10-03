@@ -1,0 +1,7 @@
+*.csv
+*.JSON
+*.RData
+*.Rhistory
+.Rproj.user/
+*.env
+*.Rproj
